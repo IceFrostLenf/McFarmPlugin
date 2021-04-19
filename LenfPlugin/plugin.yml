@@ -1,0 +1,19 @@
+name: LenfPlugin
+main: com.lenf.lenfPlugin.Main
+api-version: 1.13
+version: 1.0
+description: Rrrrr
+author: Lenf
+
+commands:
+  ozenitem:
+    usage: /ozenitem
+    description: Get the custom item by name
+
+  lenf:
+    usage: /lenf
+    description: SaveReload
+
+  behaviorDetect:
+    usage: /behaviorDetect
+    description: behaviorDetectSetting
